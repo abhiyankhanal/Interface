@@ -1,7 +1,6 @@
 {
   "name": "product-interface",
-  "homepage": "https://abhiyankhanal.github.io/product-app",
-  "version": "0.1.0",
+  "homepage": "https://abhiyankhanal.github.io/Interface",
   "private": true,
   "dependencies": {
     "18": "^0.0.0",
